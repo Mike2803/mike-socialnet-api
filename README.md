@@ -5,3 +5,9 @@
 * The user should clone the repository from GitHub. This application requires Express, MongoDB, and Mongoose. Make sure your local device has MongoDB installed. Then clone git repository and run npm install i. Once dependencies are installed run npm start to connect to server.
 # Usage
 * This application demonstrates the database for a social networking application. API routes are tested through Insomnia Core.
+# walkthrought
+
+
+
+https://user-images.githubusercontent.com/87356305/154867726-b9bb1eca-c69d-40ab-8180-33ac58e77ca8.mp4
+
